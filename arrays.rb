@@ -14,3 +14,12 @@ puts floats[3]
 
 #Will output false
 puts boo[1]
+
+#arrays:
+#store, add, remove - data
+#order starts with 0 
+#square brackets
+#each data is an element
+#seperated by commas
+# ex : array = [21, 32, 59, "three"]
+#puts array[0] will print first element
