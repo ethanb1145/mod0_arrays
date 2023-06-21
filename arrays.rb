@@ -23,3 +23,7 @@ puts boo[1]
 #seperated by commas
 # ex : array = [21, 32, 59, "three"]
 #puts array[0] will print first element
+
+#additional array method
+#ex : array.delete_at[2]
+#will remove the data in index 2
